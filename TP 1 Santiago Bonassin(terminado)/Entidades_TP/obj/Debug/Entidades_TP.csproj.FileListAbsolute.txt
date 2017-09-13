@@ -1,0 +1,6 @@
+C:\Users\cxs101\Desktop\UTN\Trabajo Practico 1\Entidades_TP\bin\Debug\Entidades_TP.dll
+C:\Users\cxs101\Desktop\UTN\Trabajo Practico 1\Entidades_TP\bin\Debug\Entidades_TP.pdb
+C:\Users\cxs101\Desktop\UTN\Trabajo Practico 1\Entidades_TP\obj\Debug\Entidades_TP.csprojResolveAssemblyReference.cache
+C:\Users\cxs101\Desktop\UTN\Trabajo Practico 1\Entidades_TP\obj\Debug\Entidades_TP.csproj.CoreCompileInputs.cache
+C:\Users\cxs101\Desktop\UTN\Trabajo Practico 1\Entidades_TP\obj\Debug\Entidades_TP.dll
+C:\Users\cxs101\Desktop\UTN\Trabajo Practico 1\Entidades_TP\obj\Debug\Entidades_TP.pdb
