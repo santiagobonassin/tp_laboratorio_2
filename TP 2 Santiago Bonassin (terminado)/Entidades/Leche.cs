@@ -40,12 +40,12 @@ namespace Entidades_2017
             }
         }
 
-        public override sealed string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("LECHE\n");
-            sb.AppendLine(this);
+            sb.AppendLine(base.Mostrar());
             sb.AppendLine("CALORIAS: " + this.CantidadCalorias);
             sb.AppendLine("TIPO: " + this._tipo);
             sb.AppendLine("");

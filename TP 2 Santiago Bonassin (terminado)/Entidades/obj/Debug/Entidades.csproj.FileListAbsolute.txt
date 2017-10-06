@@ -20,3 +20,9 @@ D:\UTN\Laboratorio II\Trabajos Practicos\TP-02\Entidades\obj\Debug\Entidades.csp
 D:\UTN\Laboratorio II\Trabajos Practicos\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\UTN\Laboratorio II\Trabajos Practicos\TP-02\Entidades\obj\Debug\Entidades.dll
 D:\UTN\Laboratorio II\Trabajos Practicos\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\Entidades\bin\Debug\Entidades.dll
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\Entidades\obj\Debug\Entidades.dll
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\Entidades\obj\Debug\Entidades.pdb

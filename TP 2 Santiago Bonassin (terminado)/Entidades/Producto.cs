@@ -30,11 +30,11 @@ namespace Entidades_2017
         /// <returns></returns>
         public virtual string Mostrar()
         {
-            return this;
+            return (string)this;
         }
         
 
-        public static implicit operator string(Producto p)
+        public static explicit operator string(Producto p)
         {
             StringBuilder sb = new StringBuilder();
 

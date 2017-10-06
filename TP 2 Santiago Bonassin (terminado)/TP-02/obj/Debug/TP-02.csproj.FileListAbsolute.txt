@@ -32,3 +32,12 @@ D:\UTN\Laboratorio II\Trabajos Practicos\TP-02\TP-02\obj\Debug\TP-02.csprojResol
 D:\UTN\Laboratorio II\Trabajos Practicos\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
 D:\UTN\Laboratorio II\Trabajos Practicos\TP-02\TP-02\obj\Debug\TP-02.exe
 D:\UTN\Laboratorio II\Trabajos Practicos\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\TP-02\bin\Debug\TP-02.exe
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\TP-02\bin\Debug\Entidades.dll
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\TP-02\obj\Debug\TP-02.exe
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 2 Santiago Bonassin (terminado)\TP-02\obj\Debug\TP-02.pdb

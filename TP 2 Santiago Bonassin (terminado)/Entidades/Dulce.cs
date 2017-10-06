@@ -27,7 +27,7 @@ namespace Entidades_2017
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("DULCE\n");
-            sb.AppendLine(this);
+            sb.AppendLine(base.Mostrar());
             sb.AppendLine("CALORIAS: " + this.CantidadCalorias);
             sb.AppendLine("");
             sb.AppendLine("---------------------");

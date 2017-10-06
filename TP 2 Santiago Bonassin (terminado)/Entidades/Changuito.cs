@@ -100,25 +100,27 @@ namespace Entidades_2017
         /// <returns></returns>
         public static Changuito operator +(Changuito c, Producto p)
         {
-            int contador = 0;
 
-            foreach (Producto v in c._productos)
-            {
-                contador++;
-                if (v == p)
-                    return c;
-            }
-
-            if (contador>=c._espacioDisponible)
+            if(c._espacioDisponible==c._productos.Count)
             {
                 return c;
             }
+
             else
             {
-                c._productos.Add(p);
-                return c;
+               foreach (Producto v in c._productos)
+                  {
+                
+                     if (v == p)
+                       {
+                           return c;
+                       }
+                     
+                  }
             }
-            
+            c._productos.Add(p);
+            return c;
+                        
         }
         /// <summary>
         /// Quitará un elemento de la lista
