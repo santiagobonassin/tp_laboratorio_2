@@ -1,0 +1,45 @@
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\TestUniversidad.exe.config
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\TestUniversidad.exe
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\TestUniversidad.pdb
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Archivos.dll
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Excepciones.dll
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Archivos.pdb
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Excepciones.pdb
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.csprojResolveAssemblyReference.cache
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.exe
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\TestUniversidad.exe.config
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\TestUniversidad.exe
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\TestUniversidad.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Archivos.dll
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Excepciones.dll
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Archivos.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Excepciones.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.csprojResolveAssemblyReference.cache
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.exe
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\TestUniversidad.exe.config
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\TestUniversidad.exe
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\TestUniversidad.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Archivos.dll
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Excepciones.dll
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Archivos.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\bin\Debug\Excepciones.pdb
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.csprojResolveAssemblyReference.cache
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.exe
+C:\Users\Tomas Angelo\Desktop\Lab-II-master\Nueva carpeta\Bonassin.Santiago.2A.TP3\TestUniversidad\obj\Debug\TestUniversidad.pdb
