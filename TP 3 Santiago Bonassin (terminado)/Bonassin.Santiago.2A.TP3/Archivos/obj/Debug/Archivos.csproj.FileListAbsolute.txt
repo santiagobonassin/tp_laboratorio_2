@@ -1,0 +1,16 @@
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\Archivos\obj\Debug\Archivos.pdb
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\Archivos\bin\Debug\Archivos.dll
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\Archivos\obj\Debug\Archivos.dll
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\Archivos\obj\Debug\Archivos.pdb

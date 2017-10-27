@@ -1,0 +1,16 @@
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\Tomas Angelo\Desktop\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+E:\Descargas\Lab-II-master\Bonassin.Santiago.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
