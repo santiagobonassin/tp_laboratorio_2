@@ -228,10 +228,10 @@ namespace EntidadesInstanciables
                             jornadaAux += a;
                         }
                     }
-                    break;
+                   return g; 
                 }
             }
-            return g;
+            throw new SinProfesorException();    
         }
         /// <summary>
         /// Muestra los datos de la universidad que se le asigne

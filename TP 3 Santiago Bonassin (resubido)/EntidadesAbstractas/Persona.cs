@@ -81,7 +81,7 @@ namespace EntidadesAbstractas
         {
             set
             {
-                this._dni = int.Parse(value);
+                this._dni = ValidarDNI(this._nacionalidad,value);
             }
         }
         /// <summary>
@@ -115,7 +115,7 @@ namespace EntidadesAbstractas
         /// <param name="nacionalidad">Enumerado del tipo Enacionalidad que indica la nacionalidad</param>
         public Persona(string nombre, string apellido, int dni, Enacionalidad nacionalidad) : this(nombre, apellido, nacionalidad)
         {
-            this._dni = dni;
+            this.DNI = dni;
         }
         /// <summary>
         /// Construye un objeto del tipo persona y lo carga con los parametros pasados, llama al constructor parametrizado
@@ -149,7 +149,7 @@ namespace EntidadesAbstractas
             }
             else
             {
-                if(dato>1 || dato<89999999)
+                if(dato>1 && dato<89999999)
                 {
                     throw new NacionalidadInvalidaException();
                 }
@@ -157,8 +157,7 @@ namespace EntidadesAbstractas
                 {
                     return dato;
                 }              
-            }
-            
+            }            
         }
         /// <summary>
         /// Valida el dni en formato string llamando al metodo entero
