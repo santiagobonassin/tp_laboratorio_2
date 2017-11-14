@@ -36,3 +36,9 @@ C:\Users\Tomas Angelo\Desktop\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\H
 C:\Users\Tomas Angelo\Desktop\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.csproj.CoreCompileInputs.cache
 C:\Users\Tomas Angelo\Desktop\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.dll
 C:\Users\Tomas Angelo\Desktop\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.pdb
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 4 Santiago Bonassin(terminado)\Hilo\bin\Debug\Hilo.dll
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 4 Santiago Bonassin(terminado)\Hilo\bin\Debug\Hilo.pdb
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.dll
+C:\Users\Tomas Angelo\Desktop\UTN\Segundo Cuatrimestre\Laboratorio II\Trabajos Practicos\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.pdb

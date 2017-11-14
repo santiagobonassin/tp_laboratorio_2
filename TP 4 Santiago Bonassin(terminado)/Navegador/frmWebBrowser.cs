@@ -95,7 +95,9 @@ namespace Navegador
             Descargador Downloader = new Descargador(direccion);
             Downloader.Progreso += new Descargador.EventProgress(ProgresoDescarga);
             Downloader.EventoFinalizado += new Descargador.End(FinDescarga);
-            new Thread(new ThreadStart(Downloader.IniciarDescarga)).Start();
+            Thread hiloUno;
+            hiloUno = new Thread(Downloader.IniciarDescarga);
+            hiloUno.Start();
             archivos.guardar(txtUrl.Text);
         }
         private void mostrarTodoElHistorialToolStripMenuItem_Click(object sender, EventArgs e)
