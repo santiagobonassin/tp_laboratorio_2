@@ -21,3 +21,9 @@ F:\TP 4 Santiago Bonassin\Archivos\bin\Debug\Archivos.pdb
 F:\TP 4 Santiago Bonassin\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
 F:\TP 4 Santiago Bonassin\Archivos\obj\Debug\Archivos.dll
 F:\TP 4 Santiago Bonassin\Archivos\obj\Debug\Archivos.pdb
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Archivos\bin\Debug\Archivos.dll
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Archivos\bin\Debug\Archivos.pdb
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Archivos\obj\Debug\Archivos.dll
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Archivos\obj\Debug\Archivos.pdb

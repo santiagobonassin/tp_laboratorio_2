@@ -24,3 +24,15 @@ F:\UTN\TP 4 Santiago Bonassin\Hilo\bin\Debug\Hilo.pdb
 F:\UTN\TP 4 Santiago Bonassin\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
 F:\UTN\TP 4 Santiago Bonassin\Hilo\obj\Debug\Hilo.dll
 F:\UTN\TP 4 Santiago Bonassin\Hilo\obj\Debug\Hilo.pdb
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Hilo\bin\Debug\Hilo.dll
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Hilo\bin\Debug\Hilo.pdb
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.csproj.CoreCompileInputs.cache
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.dll
+E:\Descargas\tp_laboratorio_2-master\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.pdb
+C:\Users\Tomas Angelo\Desktop\TP 4 Santiago Bonassin(terminado)\Hilo\bin\Debug\Hilo.dll
+C:\Users\Tomas Angelo\Desktop\TP 4 Santiago Bonassin(terminado)\Hilo\bin\Debug\Hilo.pdb
+C:\Users\Tomas Angelo\Desktop\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+C:\Users\Tomas Angelo\Desktop\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Angelo\Desktop\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.dll
+C:\Users\Tomas Angelo\Desktop\TP 4 Santiago Bonassin(terminado)\Hilo\obj\Debug\Hilo.pdb

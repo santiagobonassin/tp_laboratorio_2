@@ -90,9 +90,9 @@ namespace Navegador
             {
                 this.txtUrl.Text = this.txtUrl.Text.Insert(0, "http://");
             }
-            Uri url;
-            url = new Uri(txtUrl.Text);
-            Descargador Downloader = new Descargador(url);
+            Uri direccion;
+            direccion = new Uri(txtUrl.Text);
+            Descargador Downloader = new Descargador(direccion);
             Downloader.Progreso += new Descargador.EventProgress(ProgresoDescarga);
             Downloader.EventoFinalizado += new Descargador.End(FinDescarga);
             new Thread(new ThreadStart(Downloader.IniciarDescarga)).Start();

@@ -37,7 +37,7 @@ namespace Hilo
             this.Progreso(e.ProgressPercentage);
         }
         private void WebClientDownloadCompleted(object sender, DownloadStringCompletedEventArgs e)
-        {          
+        {
             html = e.Result;
             EventoFinalizado(html);
         }
