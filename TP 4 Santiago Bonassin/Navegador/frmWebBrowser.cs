@@ -86,5 +86,27 @@ namespace Navegador
         {
 
         }
+        private void btnIr_Click(object sender, EventArgs e)
+        {
+            this.tspbProgreso.Value = 0;
+            if (!this.txtUrl.Text.StartsWith("http://"))
+            {
+                this.txtUrl.Text = this.txtUrl.Text.Insert(0, "http://");
+            }
+            Uri url;
+            url = new Uri(txtUrl.Text);
+            Descargador descargaPagina = new Descargador(url);
+            descargaPagina.ProgresoDelEvento += new Descargador.ProgresoEvento(ProgresoDescarga);
+            descargaPagina.FinDelEvento += new Descargador.FinEvento(FinDescarga);
+            new Thread(new ThreadStart(descargaPagina.IniciarDescarga)).Start();
+            archivos.guardar(txtUrl.Text);
+
+        }
+
+        private void mostrarTodoElHistorialToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmHistorial historial = new frmHistorial();
+            historial.ShowDialog();
+        }
     }
 }

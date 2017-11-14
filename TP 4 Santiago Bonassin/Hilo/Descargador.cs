@@ -23,8 +23,8 @@ namespace Hilo
             try
             {
                 WebClient cliente = new WebClient();
-                cliente.DownloadProgressChanged += new DownloadProgressChangedEventHandler(this.WebClientDownloadProgressChanged);
-                cliente.DownloadStringCompleted += new DownloadStringCompletedEventHandler(this.WebClientDownloadCompleted);
+                cliente.DownloadProgressChanged += new DownloadProgressChangedEventHandler(WebClientDownloadProgressChanged);
+                cliente.DownloadStringCompleted += new DownloadStringCompletedEventHandler(WebClientDownloadCompleted);
                 cliente.DownloadStringAsync(direccion);
             }
             catch (Exception e)
@@ -34,10 +34,18 @@ namespace Hilo
         }
         private void WebClientDownloadProgressChanged(object sender, DownloadProgressChangedEventArgs e)
         {
+            this.ProgresoDelEvento(e.ProgressPercentage);
         }
         private void WebClientDownloadCompleted(object sender, DownloadStringCompletedEventArgs e)
         {
-            this.html = e.Result;
+            html = e.Result;
+            FinDelEvento(html);
         }
+        public delegate void ProgresoEvento(int progreso);
+
+        public delegate void FinEvento(string html);
+        public event ProgresoEvento ProgresoDelEvento;
+
+        public event FinEvento FinDelEvento;
     }
 }

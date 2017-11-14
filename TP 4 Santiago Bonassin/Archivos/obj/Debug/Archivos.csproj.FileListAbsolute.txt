@@ -16,3 +16,8 @@ D:\Navegador TP-4 - AlumnoV2\Archivos\bin\Debug\Archivos.dll
 D:\Navegador TP-4 - AlumnoV2\Archivos\bin\Debug\Archivos.pdb
 D:\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.dll
 D:\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.pdb
+F:\TP 4 Santiago Bonassin\Archivos\bin\Debug\Archivos.dll
+F:\TP 4 Santiago Bonassin\Archivos\bin\Debug\Archivos.pdb
+F:\TP 4 Santiago Bonassin\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\TP 4 Santiago Bonassin\Archivos\obj\Debug\Archivos.dll
+F:\TP 4 Santiago Bonassin\Archivos\obj\Debug\Archivos.pdb
